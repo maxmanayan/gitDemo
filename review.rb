@@ -3,4 +3,4 @@ puts "Hello World"
 
 puts "second string"
 
-puts "third string"
+puts "Amazing Change want to add to github right away"
